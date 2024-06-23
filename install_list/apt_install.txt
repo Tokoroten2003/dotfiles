@@ -3,7 +3,6 @@ curl
 git
 libssh-dev
 libssl-dev
-ssh
 unzip
 vim
 wget
