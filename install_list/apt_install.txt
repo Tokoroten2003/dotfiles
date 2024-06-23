@@ -1,7 +1,11 @@
 build-essential
 curl
 git
+libssh-dev
 libssl-dev
 ssh
+unzip
+vim
+wget
 zip
 zsh
