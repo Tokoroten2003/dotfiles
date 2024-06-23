@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 
 set -e
+sudo echo "sudo password is remembered"
 
 SRC_DIR=$(cd "$(dirname "${BASH_SOURCE:-$0}")" && pwd)
 
